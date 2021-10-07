@@ -1,0 +1,47 @@
+@media screen and (min-width: 700px) {
+
+body { background-color:#222222 ;  } #footer {background-color:#111111 ; }
+
+#content
+{
+height : 1830px ;
+}
+#header
+{
+visibility : visible ;
+}
+#footer
+{
+visibility : visible ;
+}
+
+
+
+
+#divider126
+{
+position: absolute ;
+display: block ;
+width:600px ;
+height:600px ;
+left:206px ;
+top:761px ; }
+
+#divider127
+{
+position: absolute ;
+display: block ;
+width:400px ;
+height:395px ;
+left:293px ;
+top:1415px ; }
+
+#divider128
+{
+position: absolute ;
+display: block ;
+width:600px ;
+height:600px ;
+left:209px ;
+top:82px ; }
+}

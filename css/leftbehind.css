@@ -1,0 +1,54 @@
+ #footer {background-color:#FFF5CC ; }
+ #footer p {
+color:#000000 ; 
+}
+#footer p a {
+color:#cccccc ; 
+}
+#content
+{
+height : 2218px ; 
+}
+#header
+{
+visibility : visible ; 
+}
+#footer
+{
+visibility : visible ; 
+}
+#divider134
+{
+position: absolute ; 
+display: block ; 
+width:900px ; 
+height:496px ; 
+left:42px ; 
+top:0px ; }
+
+#divider133
+{
+position: absolute ; 
+display: block ; 
+width:900px ; 
+height:506px ; 
+left:43px ; 
+top:558px ; }
+
+#divider135
+{
+position: absolute ; 
+display: block ; 
+width:900px ; 
+height:506px ; 
+left:41px ; 
+top:1692px ; }
+
+#divider136
+{
+position: absolute ; 
+display: block ; 
+width:900px ; 
+height:506px ; 
+left:42px ; 
+top:1127px ; }

@@ -1,0 +1,467 @@
+@media screen and (max-width: 699px) { 
+body { 
+background-color: green ; 
+}
+
+.contentBox img {
+width: 100% ;
+height: auto ;
+}
+}
+@media screen and (min-width: 700px) {
+
+
+#content
+{
+height : 15363px ; 
+}
+#header
+{
+visibility : visible ; 
+}
+#footer
+{
+visibility : visible ; 
+}
+#divider91
+{
+position: absolute ; 
+display: block ; 
+width:995px ; 
+height:487px ; 
+left:5px ; 
+top:2411px ; }
+
+#divider114
+{
+position: absolute ; 
+display: block ; 
+width:600px ; 
+height:338px ; 
+left:192px ; 
+top:1210px ; }
+
+#divider88
+{
+position: absolute ; 
+display: block ; 
+width:971px ; 
+height:526px ; 
+left:6px ; 
+top:1686px ; }
+
+#divider215
+{
+position: absolute ; 
+display: block ; 
+width:900px ; 
+height:489px ; 
+left:29px ; 
+top:37px ; }
+
+#divider54
+{
+position: absolute ; 
+display: block ; 
+width:257px ; 
+height:359px ; 
+left:174px ; 
+top:14250px ; }
+
+#divider116
+{
+position: absolute ; 
+display: block ; 
+width:600px ; 
+height:419px ; 
+left:370px ; 
+top:679px ; }
+
+#divider55
+{
+position: absolute ; 
+display: block ; 
+width:155px ; 
+height:240px ; 
+left:442px ; 
+top:14364px ; }
+
+#divider56
+{
+position: absolute ; 
+display: block ; 
+width:255px ; 
+height:183px ; 
+left:611px ; 
+top:14367px ; }
+
+#divider57
+{
+position: absolute ; 
+display: block ; 
+width:487px ; 
+height:700px ; 
+left:248px ; 
+top:14643px ; }
+
+#divider58
+{
+position: absolute ; 
+display: block ; 
+width:500px ; 
+height:708px ; 
+left:242px ; 
+top:13367px ; }
+
+#divider59
+{
+position: absolute ; 
+display: block ; 
+width:256px ; 
+height:485px ; 
+left:202px ; 
+top:12445px ; }
+
+#divider60
+{
+position: absolute ; 
+display: block ; 
+width:983px ; 
+height:168px ; 
+left:2px ; 
+top:13058px ; }
+
+#divider61
+{
+position: absolute ; 
+display: block ; 
+width:328px ; 
+height:465px ; 
+left:505px ; 
+top:12443px ; }
+
+#divider62
+{
+position: absolute ; 
+display: block ; 
+width:317px ; 
+height:253px ; 
+left:507px ; 
+top:12141px ; }
+
+#divider63
+{
+position: absolute ; 
+display: block ; 
+width:240px ; 
+height:241px ; 
+left:43px ; 
+top:11424px ; }
+
+#divider64
+{
+position: absolute ; 
+display: block ; 
+width:218px ; 
+height:306px ; 
+left:507px ; 
+top:11771px ; }
+
+#divider65
+{
+position: absolute ; 
+display: block ; 
+width:400px ; 
+height:423px ; 
+left:78px ; 
+top:11935px ; }
+
+#divider66
+{
+position: absolute ; 
+display: block ; 
+width:399px ; 
+height:542px ; 
+left:142px ; 
+top:10609px ; }
+
+#divider67
+{
+position: absolute ; 
+display: block ; 
+width:398px ; 
+height:200px ; 
+left:449px ; 
+top:10861px ; }
+
+#divider68
+{
+position: absolute ; 
+display: block ; 
+width:258px ; 
+height:258px ; 
+left:506px ; 
+top:11419px ; }
+
+#divider69
+{
+position: absolute ; 
+display: block ; 
+width:174px ; 
+height:240px ; 
+left:300px ; 
+top:11566px ; }
+
+#divider70
+{
+position: absolute ; 
+display: block ; 
+width:911px ; 
+height:233px ; 
+left:36px ; 
+top:9555px ; }
+
+#divider71
+{
+position: absolute ; 
+display: block ; 
+width:511px ; 
+height:347px ; 
+left:236px ; 
+top:9145px ; }
+
+#divider72
+{
+position: absolute ; 
+display: block ; 
+width:320px ; 
+height:317px ; 
+left:332px ; 
+top:8707px ; }
+
+#divider73
+{
+position: absolute ; 
+display: block ; 
+width:298px ; 
+height:640px ; 
+left:343px ; 
+top:9884px ; }
+
+#divider74
+{
+position: absolute ; 
+display: block ; 
+width:241px ; 
+height:300px ; 
+left:725px ; 
+top:7161px ; }
+
+#divider75
+{
+position: absolute ; 
+display: block ; 
+width:400px ; 
+height:293px ; 
+left:286px ; 
+top:7329px ; }
+
+#divider76
+{
+position: absolute ; 
+display: block ; 
+width:741px ; 
+height:360px ; 
+left:121px ; 
+top:7729px ; }
+
+#divider77
+{
+position: absolute ; 
+display: block ; 
+width:300px ; 
+height:462px ; 
+left:342px ; 
+top:8152px ; }
+
+#divider78
+{
+position: absolute ; 
+display: block ; 
+width:600px ; 
+height:498px ; 
+left:192px ; 
+top:6389px ; }
+
+#divider79
+{
+position: absolute ; 
+display: block ; 
+width:239px ; 
+height:300px ; 
+left:365px ; 
+top:6963px ; }
+
+#divider80
+{
+position: absolute ; 
+display: block ; 
+width:300px ; 
+height:300px ; 
+left:18px ; 
+top:7243px ; }
+
+#divider81
+{
+position: absolute ; 
+display: block ; 
+width:840px ; 
+height:399px ; 
+left:72px ; 
+top:4935px ; }
+
+#divider82
+{
+position: absolute ; 
+display: block ; 
+width:1000px ; 
+height:475px ; 
+left:8px ; 
+top:5426px ; }
+
+#divider83
+{
+position: absolute ; 
+display: block ; 
+width:780px ; 
+height:263px ; 
+left:102px ; 
+top:6004px ; }
+
+#divider84
+{
+position: absolute ; 
+display: block ; 
+width:980px ; 
+height:465px ; 
+left:2px ; 
+top:4379px ; }
+
+#divider85
+{
+position: absolute ; 
+display: block ; 
+width:980px ; 
+height:465px ; 
+left:2px ; 
+top:3767px ; }
+
+#divider86
+{
+position: absolute ; 
+display: block ; 
+width:980px ; 
+height:431px ; 
+left:2px ; 
+top:3150px ; }
+
+#divider99
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:12px ; 
+top:4262px ; }
+
+#divider98
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:12px ; 
+top:3600px ; }
+
+#divider97
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:18px ; 
+top:2924px ; }
+
+#divider96
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:5px ; 
+top:2240px ; }
+
+#divider100
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:926px ; 
+top:5247px ; }
+
+#divider154
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:371px ; 
+top:1108px ; }
+
+#divider155
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:805px ; 
+top:1494px ; }
+
+#divider186
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:807px ; 
+top:6837px ; }
+
+#divider189
+{
+position: absolute ; 
+display: block ; 
+width:346px ; 
+height:330px ; 
+left:2px ; 
+top:632px ; }
+
+#divider190
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:5px ; 
+top:973px ; }
+
+#divider226
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:43px ; 
+top:511px ; }
+
+}

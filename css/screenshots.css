@@ -1,0 +1,44 @@
+
+#content
+{
+height : 1256px ; 
+}
+#header
+{
+visibility : visible ; 
+}
+#footer
+{
+visibility : visible ; 
+}
+#divider14
+{
+position: absolute ; 
+display: block ; 
+width:800px ; 
+height:483px ; 
+left:92px ; 
+top:753px ; }
+
+#divider15
+{
+position: absolute ; 
+display: block ; 
+width:800px ; 
+height:500px ; 
+left:91px ; 
+top:78px ; }
+@media (max-width:700px){
+#divider14
+{
+position: relative ; 
+left:0px ; 
+top: 0px ; }
+
+#divider15
+{
+position: relative ; 
+left:0px ; 
+top: 0px ; }
+
+}

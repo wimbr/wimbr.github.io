@@ -1,0 +1,562 @@
+#footer { margin-top:200px ; } @media screen and (max-width: 699px) { 
+.contentBox img {
+width: 100% ;
+height: auto ;
+}
+}
+@media screen and (min-width: 700px) {
+
+
+#content
+{
+height : 13429px ; 
+}
+#header
+{
+visibility : visible ; 
+}
+#footer
+{
+visibility : visible ; 
+}
+#divider229
+{
+position: absolute ; 
+display: block ; 
+width:900px ; 
+height:449px ; 
+left:36px ; 
+top:1202px ; }
+
+#divider230
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:34px ; 
+top:1660px ; }
+
+#divider187
+{
+position: absolute ; 
+display: block ; 
+width:350px ; 
+height:318px ; 
+left:339px ; 
+top:3006px ; }
+
+#divider188
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:701px ; 
+top:3013px ; }
+
+#divider124
+{
+position: absolute ; 
+display: block ; 
+width:300px ; 
+height:300px ; 
+left:31px ; 
+top:2632px ; }
+
+#divider160
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:344px ; 
+top:2855px ; }
+
+#divider117
+{
+position: absolute ; 
+display: block ; 
+width:500px ; 
+height:745px ; 
+left:260px ; 
+top:1870px ; }
+
+#divider159
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:774px ; 
+top:1864px ; }
+
+#divider137
+{
+position: absolute ; 
+display: block ; 
+width:400px ; 
+height:312px ; 
+left:0px ; 
+top:692px ; }
+
+#divider158
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:4px ; 
+top:1015px ; }
+
+#divider144
+{
+position: absolute ; 
+display: block ; 
+width:625px ; 
+height:404px ; 
+left:-257px ; 
+top:-2px ; }
+
+#divider157
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:825px ; 
+top:312px ; }
+
+#divider169
+{
+position: absolute ; 
+display: block ; 
+width:480px ; 
+height:270px ; 
+left:490px ; 
+top:503px ; }
+
+#divider170
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:489px ; 
+top:783px ; }
+
+#divider51
+{
+position: absolute ; 
+display: block ; 
+width:800px ; 
+height:450px ; 
+left:92px ; 
+top:3814px ; }
+
+#divider161
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:94px ; 
+top:4283px ; }
+
+#divider213
+{
+position: absolute ; 
+display: block ; 
+width:480px ; 
+height:270px ; 
+left:95px ; 
+top:3434px ; }
+
+#divider214
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:587px ; 
+top:3642px ; }
+
+#divider49
+{
+position: absolute ; 
+display: block ; 
+width:180px ; 
+height:180px ; 
+left:779px ; 
+top:2394px ; }
+
+#divider2
+{
+position: absolute ; 
+display: block ; 
+width:258px ; 
+height:344px ; 
+left:211px ; 
+top:11983px ; }
+
+#divider153
+{
+position: absolute ; 
+display: block ; 
+width:398px ; 
+height:200px ; 
+left:4px ; 
+top:434px ; }
+
+#divider8
+{
+position: absolute ; 
+display: block ; 
+width:401px ; 
+height:399px ; 
+left:72px ; 
+top:12414px ; }
+
+#divider6
+{
+position: absolute ; 
+display: block ; 
+width:900px ; 
+height:675px ; 
+left:42px ; 
+top:11143px ; }
+
+#divider7
+{
+position: absolute ; 
+display: block ; 
+width:105px ; 
+height:139px ; 
+left:701px ; 
+top:12443px ; }
+
+#divider19
+{
+position: absolute ; 
+display: block ; 
+width:281px ; 
+height:186px ; 
+left:93px ; 
+top:10741px ; }
+
+#divider20
+{
+position: absolute ; 
+display: block ; 
+width:400px ; 
+height:343px ; 
+left:511px ; 
+top:12044px ; }
+
+#divider17
+{
+position: absolute ; 
+display: block ; 
+width:174px ; 
+height:152px ; 
+left:510px ; 
+top:12439px ; }
+
+#divider18
+{
+position: absolute ; 
+display: block ; 
+width:121px ; 
+height:124px ; 
+left:509px ; 
+top:12632px ; }
+
+#divider21
+{
+position: absolute ; 
+display: block ; 
+width:240px ; 
+height:241px ; 
+left:646px ; 
+top:10439px ; }
+
+#divider22
+{
+position: absolute ; 
+display: block ; 
+width:500px ; 
+height:334px ; 
+left:391px ; 
+top:10743px ; }
+
+#divider23
+{
+position: absolute ; 
+display: block ; 
+width:628px ; 
+height:390px ; 
+left:18px ; 
+top:9235px ; }
+
+#divider24
+{
+position: absolute ; 
+display: block ; 
+width:450px ; 
+height:300px ; 
+left:510px ; 
+top:9508px ; }
+
+#divider25
+{
+position: absolute ; 
+display: block ; 
+width:378px ; 
+height:286px ; 
+left:43px ; 
+top:8672px ; }
+
+#divider26
+{
+position: absolute ; 
+display: block ; 
+width:462px ; 
+height:73px ; 
+left:18px ; 
+top:9016px ; }
+
+#divider27
+{
+position: absolute ; 
+display: block ; 
+width:333px ; 
+height:473px ; 
+left:156px ; 
+top:9742px ; }
+
+#divider28
+{
+position: absolute ; 
+display: block ; 
+width:539px ; 
+height:361px ; 
+left:491px ; 
+top:8873px ; }
+
+#divider29
+{
+position: absolute ; 
+display: block ; 
+width:300px ; 
+height:197px ; 
+left:492px ; 
+top:8615px ; }
+
+#divider30
+{
+position: absolute ; 
+display: block ; 
+width:300px ; 
+height:316px ; 
+left:342px ; 
+top:7544px ; }
+
+#divider31
+{
+position: absolute ; 
+display: block ; 
+width:300px ; 
+height:316px ; 
+left:20px ; 
+top:7545px ; }
+
+#divider32
+{
+position: absolute ; 
+display: block ; 
+width:300px ; 
+height:316px ; 
+left:664px ; 
+top:7541px ; }
+
+#divider33
+{
+position: absolute ; 
+display: block ; 
+width:300px ; 
+height:317px ; 
+left:662px ; 
+top:7903px ; }
+
+#divider34
+{
+position: absolute ; 
+display: block ; 
+width:300px ; 
+height:316px ; 
+left:20px ; 
+top:7189px ; }
+
+#divider35
+{
+position: absolute ; 
+display: block ; 
+width:300px ; 
+height:316px ; 
+left:342px ; 
+top:7189px ; }
+
+#divider36
+{
+position: absolute ; 
+display: block ; 
+width:300px ; 
+height:316px ; 
+left:666px ; 
+top:7188px ; }
+
+#divider37
+{
+position: absolute ; 
+display: block ; 
+width:300px ; 
+height:316px ; 
+left:19px ; 
+top:7896px ; }
+
+#divider38
+{
+position: absolute ; 
+display: block ; 
+width:300px ; 
+height:316px ; 
+left:342px ; 
+top:7900px ; }
+
+#divider39
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:745px ; 
+top:5788px ; }
+
+#divider40
+{
+position: absolute ; 
+display: block ; 
+width:1024px ; 
+height:768px ; 
+left:1px ; 
+top:6169px ; }
+
+#divider41
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:37px ; 
+top:5786px ; }
+
+#divider42
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:512px ; 
+top:5788px ; }
+
+#divider43
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:272px ; 
+top:5786px ; }
+
+#divider44
+{
+position: absolute ; 
+display: block ; 
+width:229px ; 
+height:229px ; 
+left:98px ; 
+top:5424px ; }
+
+#divider46
+{
+position: absolute ; 
+display: block ; 
+width:400px ; 
+height:300px ; 
+left:292px ; 
+top:4716px ; }
+
+#divider47
+{
+position: absolute ; 
+display: block ; 
+width:524px ; 
+height:381px ; 
+left:395px ; 
+top:5239px ; }
+
+#divider48
+{
+position: absolute ; 
+display: block ; 
+width:227px ; 
+height:243px ; 
+left:99px ; 
+top:5153px ; }
+
+#divider50
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:200px ; 
+left:18px ; 
+top:7092px ; }
+
+#divider52
+{
+position: absolute ; 
+display: block ; 
+width:600px ; 
+height:223px ; 
+left:192px ; 
+top:4428px ; }
+
+#divider53
+{
+position: absolute ; 
+display: block ; 
+width:979px ; 
+height:606px ; 
+left:0px ; 
+top:12905px ; }
+
+#divider156
+{
+position: absolute ; 
+display: block ; 
+width:480px ; 
+height:360px ; 
+left:252px ; 
+top:13049px ; }
+
+#divider203
+{
+position: absolute ; 
+display: block ; 
+width:200px ; 
+height:147px ; 
+left:235px ; 
+top:10403px ; }
+
+}
