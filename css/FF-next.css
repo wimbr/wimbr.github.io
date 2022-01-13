@@ -1,0 +1,31 @@
+@media screen and (max-width: 699px) { 
+.contentBox img {
+width: 100% ;
+height: auto ;
+}
+}
+@media screen and (min-width: 700px) {
+
+
+#content
+{
+height : undefinedpx ; 
+}
+#header
+{
+visibility : visible ; 
+}
+#footer
+{
+visibility : visible ; 
+}
+#divider231
+{
+position: absolute ; 
+display: block ; 
+width:800px ; 
+height:471px ; 
+left:92px ; 
+top:39px ; }
+
+}
